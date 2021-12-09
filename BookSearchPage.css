@@ -1,0 +1,38 @@
+.List {
+    padding: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    min-height: 500px;
+}
+
+.list_tit {
+    border-bottom: solid 1px #ababab;
+    color : #ababab;
+}
+
+.list_grid {
+    display: grid;
+    grid-template-columns: 95% 5%;
+    border: 1px solid;
+}
+
+.list_data {
+    line-height: 20px;
+}
+
+.acenter {
+    text-align: center;
+}
+
+.aleft{
+    text-align: left;
+}
+
+.spanright{
+    float:right;
+}
+
+.blue{
+    color:white;
+    background-color: blue;
+}
