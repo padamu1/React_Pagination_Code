@@ -1,5 +1,5 @@
 import React from "react";
-import BookSearchPageStyle from './BookSearchPage.css'
+import './BookSearchPage.css';
 
 
 class BookSearchPage extends React.Component {
